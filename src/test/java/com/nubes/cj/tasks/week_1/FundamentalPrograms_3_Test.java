@@ -73,7 +73,6 @@ class FundamentalPrograms_3_Test {
 	}
 	
 
-	
 	@Test
 	void countPrimesTest() {
 		FundamentalPrograms_3 obj = new FundamentalPrograms_3();
